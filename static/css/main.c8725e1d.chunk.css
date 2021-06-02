@@ -1,0 +1,2 @@
+.App{font-family:sans-serif;text-align:center}.grid{height:400px;width:400px;display:grid;grid-template-columns:repeat(10,40px);grid-template-rows:repeat(10,40px)}.box,.grid{border:1px solid #000}button{background:transparent;color:#00f;padding:5px;margin:5px;border-radius:5px;cursor:pointer}button:hover{background:#00f;color:#fff}
+/*# sourceMappingURL=main.c8725e1d.chunk.css.map */
